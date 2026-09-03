@@ -2,7 +2,7 @@
 Universal PHF to Binary converter based off rollsch/PHF2BIN
  
     //  This is based off Roland's PHF2BIN work, see https://github.com/rollsch/PHF2BIN
-    //  Tested on FoA Orion module PHF files, confirmed working, this code is fromt the
+    //  Tested on FoA Orion module PHF files, confirmed working, this code is from the
     //  Tester Engineering Suite v1.0.9-2026, made available open source for public use. 
     //  See https://tester.engineering and https://testerpresent.com.au
     //
