@@ -25,3 +25,7 @@ Universal PHF to Binary converter based off rollsch/PHF2BIN
     //
     //  Output is a flat BIN plus the parsed metadata; the IDS path also emits the sparse
     //  address map so the caller can show the real load addresses (and export Intel-HEX/SREC).
+
+    
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/4afb3b78-efb7-4f1e-90e3-5f8bb9dff441" />
+<img width="1837" height="261" alt="image" src="https://github.com/user-attachments/assets/c773b7dd-7d82-4d92-a88c-b79d32a23737" />
